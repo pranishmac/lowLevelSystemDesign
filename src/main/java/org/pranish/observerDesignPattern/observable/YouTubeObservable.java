@@ -1,5 +1,5 @@
-package org.pranish.strategyDesignPattern.observerDesignPattern.observable;
-import org.pranish.strategyDesignPattern.observerDesignPattern.observer.Observer;
+package org.pranish.observerDesignPattern.observable;
+import org.pranish.observerDesignPattern.observer.Observer;
 import java.util.*;
 
 public class YouTubeObservable implements Observable {

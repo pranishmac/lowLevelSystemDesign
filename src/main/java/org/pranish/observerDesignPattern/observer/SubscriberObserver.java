@@ -1,4 +1,4 @@
-package org.pranish.strategyDesignPattern.observerDesignPattern.observer;
+package org.pranish.observerDesignPattern.observer;
 
 public class SubscriberObserver implements Observer{
     private String name;

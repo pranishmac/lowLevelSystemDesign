@@ -1,9 +1,9 @@
-package org.pranish.strategyDesignPattern.observerDesignPattern;
+package org.pranish.observerDesignPattern;
 
-import org.pranish.strategyDesignPattern.observerDesignPattern.observable.Observable;
-import org.pranish.strategyDesignPattern.observerDesignPattern.observable.YouTubeObservable;
-import org.pranish.strategyDesignPattern.observerDesignPattern.observer.Observer;
-import org.pranish.strategyDesignPattern.observerDesignPattern.observer.SubscriberObserver;
+import org.pranish.observerDesignPattern.observable.Observable;
+import org.pranish.observerDesignPattern.observable.YouTubeObservable;
+import org.pranish.observerDesignPattern.observer.Observer;
+import org.pranish.observerDesignPattern.observer.SubscriberObserver;
 
 public class ObserverPatternDemo {
     public static void main(String[] args) {

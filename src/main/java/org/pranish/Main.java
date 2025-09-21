@@ -9,7 +9,7 @@ import org.pranish.strategyDesignPattern.SportsVehicle;
 public class Main {
     public static void main(String[] args) {
         SportsVehicle spoj = new SportsVehicle();
-        spoj.drive();
+
 
         GoodsVehicle gobj = new GoodsVehicle();
         gobj.drive();

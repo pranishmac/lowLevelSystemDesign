@@ -1,0 +1,16 @@
+ Observable
+  + attach(Observer)
+  + detach(Observer)
+  + notifyObservers()
+
+ Observer
+  + update()
+
+ ConcreteObservable
+  - state
+  + getState()
+  + setState()
+
+ ConcreteObserver
+  - observableRef
+  + update()
